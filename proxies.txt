@@ -1,0 +1,8 @@
+# place your proxies here
+# format:
+# http://user:password@ip:port
+# socks5://user:password@ip:port
+
+# example:
+# http://user:password@127.0.0.1:1080
+# socks5://user:password@127.0.0.1:1080
